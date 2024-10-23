@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BigGoButton</string>
+    <string name="button_text_initial">Press me!</string>
+    <string name="button_text_pushed_once">You pressed the button once!</string>
+</resources>
